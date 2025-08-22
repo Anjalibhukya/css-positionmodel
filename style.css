@@ -10,14 +10,14 @@
 .child-2{
     display: flex;
     height: 500px;
-    margin-left: 0px;
+    margin-top: 100px;
 }
 .subchild-1{
     display:inline-block;
     width:500px;
     height:600px;
     position: relative;
-    margin: 50px;
+    margin: 30px;
     
 }
 .subchild-2{
@@ -25,21 +25,21 @@
     width:500px;
     height:600px;
     position: relative;
-    margin: 50px;
+    margin: 30px;
 }
 .subchild-3{
     display:inline-block;
     width:500px;
     height:600px;
     position: relative;
-    margin:50px;
+    margin:30px;
 }
 .subchild-4{
     display:inline-block;
     width:500px;
     height:600px;
     position: relative;
-    margin: 50px;
+    margin: 30px;
 }
 img{
     width:100%;
@@ -57,7 +57,7 @@ h3{
     width:500px;
     height:500px;
     position: relative;
-    margin: 50px;
+    margin: 30px;
    
 }
 .subchild-22{
@@ -65,7 +65,7 @@ h3{
     width:500px;
     height:500px;
     position: relative;
-    margin: 50px;
+    margin: 30px;
     
 }
 .subchild-33{
@@ -73,7 +73,7 @@ h3{
     width:500px;
     height:500px;
     position: relative;
-    margin: 50px;
+    margin: 30px;
     
 }
 .subchild-44{
@@ -81,5 +81,5 @@ h3{
     width:500px;
     height:500px;
     position: relative;
-    margin: 50px;
+    margin: 30px;
 }
