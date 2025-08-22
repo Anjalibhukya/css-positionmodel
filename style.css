@@ -5,12 +5,12 @@
 .child-1{
     display:flex;
     height: 500px;
-    margin-left: 10px;
+    margin-left: 0px;
 }
 .child-2{
     display: flex;
     height: 500px;
-    margin-left: 10px;
+    margin-left: 0px;
 }
 .subchild-1{
     display:inline-block;
@@ -34,7 +34,7 @@
     width:500px;
     height:600px;
     position: relative;
-    margin-left: 0px;
+    margin-left: 10px;
      margin-top: 100px;
 }
 .subchild-4{
