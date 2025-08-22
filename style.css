@@ -5,12 +5,12 @@
 .child-1{
     display:flex;
     height: 500px;
-    margin-left: 400px;
+    margin-left: 300px;
 }
 .child-2{
     display: flex;
     height: 500px;
-    margin-left: 400px;
+    margin-left: 300px;
 }
 .subchild-1{
     display:inline-block;
@@ -62,6 +62,7 @@ h3{
     height:500px;
     position: relative;
     margin-left: 50px;
+    margin-top: 50px;
 }
 .subchild-22{
     display:inline-block;
@@ -69,6 +70,7 @@ h3{
     height:500px;
     position: relative;
     margin-left: 50px;
+    margin-top: 50px;
 }
 .subchild-33{
     display:inline-block;
@@ -76,6 +78,7 @@ h3{
     height:500px;
     position: relative;
     margin-left: 50px;
+    margin-top: 50px;
 }
 .subchild-44{
     display:inline-block;
@@ -83,4 +86,5 @@ h3{
     height:500px;
     position: relative;
     margin-left: 50px;
+    margin-top: 50px;
 }
